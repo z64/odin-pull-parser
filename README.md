@@ -88,7 +88,7 @@ main :: proc() {
 }
 ```
 
-See also [`test.odin`](test.odin).
+See also [`pull/test.odin`](pull/test.odin).
 
 ## TODO
 
